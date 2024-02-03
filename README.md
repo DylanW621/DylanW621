@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanw621&label=Profile%20views&color=0e75b6&style=flat" alt="dylanw621" /> </p>
 
-- 🔭 I’m currently working on a **Caving equipment check in/out app**
-- 🌱 I’m currently learning **The PERN stack**
+- 🔭 I’m currently working on a **caving equipment check in/out app**
+- 🌱 I’m currently learning **the PERN stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
