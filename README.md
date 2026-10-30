@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Wase</h1>
-<h3 align="center">A motivated Computer Science student studying at Cardiff University</h3>
+<h3 align="center">Cardiff University Computer Science graduate working as a Systems Developer for Eco2 Management Services Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanw621&label=Profile%20views&color=0e75b6&style=flat" alt="dylanw621" /> </p>
 
